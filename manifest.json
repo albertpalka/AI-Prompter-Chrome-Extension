@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "AI Promptor",
+  "version": "1.0",
+  "description": "Gentle reminders to leverage AI tools for problem-solving to build new habits.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+} 
