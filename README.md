@@ -1,4 +1,4 @@
-# AI Nudge Chrome Extension
+# AI Prompter - Chrome Extension
 
 A stylish Chrome extension that gently reminds you to consider AI tools before diving into problem-solving tasks. Every time you open a new tab, you'll see an elegant nudge encouraging you to leverage AI assistance.
 
@@ -9,17 +9,6 @@ A stylish Chrome extension that gently reminds you to consider AI tools before d
 3. **Enable Developer mode** by toggling the switch in the top-right corner
 4. **Click "Load unpacked"** and select the folder containing the extension files
 5. **Open a new tab** to see your AI Nudge!
-
-## Files Structure
-
-```
-ai-nudge/
-├── manifest.json       # Extension configuration
-├── newtab.html        # New tab page HTML
-├── styles.css         # Styling and animations
-├── script.js          # JavaScript functionality
-└── README.md          # This file
-```
 
 ## Customization
 
